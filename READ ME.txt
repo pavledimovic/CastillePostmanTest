@@ -1,0 +1,9 @@
+I used Postman to make this test, and created collection that is uploaded to this git repo
+
+Git repo:
+https://github.com/pavledimovic/CastillePostmanTest.git
+
+VIDEO OF TEST EXECUTION
+LINK:
+
+
